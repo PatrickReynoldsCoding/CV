@@ -59,4 +59,4 @@ JANUARY 2015 - JANUARY 2020,  TOOTING, LONDON
 ## Hobbies and interests
 - **Music**: Played with several jam bands and love getting together in the summer for a campfire sing along. Love recording music and coming up with ideas.
 - **Cooking**: My happy place.
-- **Climbing**: Favorite sport, but god I hate the shoes!
+- **Climbing**: Favorite sport, but hate the shoes!
