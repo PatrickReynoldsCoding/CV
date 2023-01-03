@@ -2,13 +2,14 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/clare-budds) 
 
-I am a motivated and hard-working dev currently looking for employment following my 16 week Makers.com coding bootcamp. 
+I am a motivated and hard-working dev currently looking for employment following my 16-week Makers.com coding Bootcamp.
 
-In the past months I've been developing my React.js and CSS knowledge. I soon hope to start learning Typescript and Python. 
+During the course, we studied design principles and TDD to ensure our code was always refactored to be as efficient as possible. The course contained 3 major projects, the last 2 involved writing a full-stack website from scratch. By the end of the course, I was happy with my ability to build full-stack MERN applications on my own.
 
-Having made a few full stack sites I'm now working on personal web projects. Following some good advice, these projects will be gaming focused as games give unique logical and style challenges to overcome.  
+Following graduation, I've been developing my React.js and CSS knowledge as well as looking into deployment. Following finishing a few ongoing projects, I soon hope to start learning Typescript and Python, specifically the Django framework.
 
-**Tech Skills** : JavaScript, React.js, Node.js, Express, Jest, Cypress, HTML, SCSS, CSS, Ruby, Sinatra, RSpec
+
+**Tech Skills**: JavaScript, React.js, Node.js, Express, Jest, Cypress, HTML, SCSS, CSS, Ruby, Sinatra, RSpec
 
 ## Projects
 
