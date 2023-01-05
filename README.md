@@ -1,6 +1,6 @@
 ## Patrick Reynolds
 
-[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/clare-budds) 
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/reynolds-patrick) 
 
 I am a motivated and hard-working dev currently looking for employment following my 16-week Makers.com coding Bootcamp.
 
