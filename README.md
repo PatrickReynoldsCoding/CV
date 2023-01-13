@@ -81,9 +81,10 @@ Tech Skills: JavaScript, React.js, Node.js, Express, Jest, Cypress, HTML, SCSS, 
 PRESENT
 
 Volunteering in local community gardens and teaching privately one-to-one.
-https://yourguitaracademy.com/blog/guitar-lessons/west-norwood-london
-https://musicteacher.com/guitar-lessons-crystal-palace/
-https://www.brockwellgreenhouses.org.uk/event/guitar-lessons-in-the-gardens-3/ https://www.facebook.com/groups/PatrickGuitar/
+* https://yourguitaracademy.com/blog/guitar-lessons/west-norwood-london
+* https://musicteacher.com/guitar-lessons-crystal-palace/
+* https://www.brockwellgreenhouses.org.uk/event/guitar-lessons-in-the-gardens-3/ 
+* https://www.facebook.com/groups/PatrickGuitar/
 
 
 ### Remap (Charity) / Volunteer(maker)
@@ -108,30 +109,33 @@ https://www.remap.org.uk/ Remap custom-makes equipment to help disabled people l
 ## Skills
 
 ### Software
-JavaScript, React.js, Node.js, Express, Jest, Cypress
-Ruby, Sinatra, RSpec
-HTML, SCSS, CSS
-Tailwind, Bootstrap
-SQL, Postgres Excel
-Data Analysis
-Creating department performance reports
-Tracking income and performance
-Dashboard creation
-Audits and data validation
-Strong experience in Excel, including writing DAX measures
-Familiar with SQL and Tableau
-Finance
-Creating accruals and financial estimates
-Managing several NHS suppliers, including:
-Paying invoices
-Tracking contract/SLA expiry dates
-Raising PO numbers
-Reporting on changes in spend and performance
-Management
-Line managing multiple staff in different departments
-Performing yearly appraisals and target setting
-Managing long-term absences
-Overseeing the development of new training programmes
+• JavaScript, React.js, Node.js, Express, Jest, Cypress
+• Ruby, Sinatra, RSpec
+• HTML, SCSS, CSS
+• Tailwind, Bootstrap
+• SQL, Postgres Excel
+
+### Data Analysis
+• Creating department performance reports
+• Tracking income and performance
+• Dashboard creation
+• Audits and data validation
+• Strong experience in Excel, including writing DAX measures
+• Familiar with SQL and Tableau
+
+### Finance
+• Creating accruals and financial estimates
+• Managing several NHS suppliers, including:
+• Paying invoices
+• Tracking contract/SLA expiry dates
+• Raising PO numbers
+• Reporting on changes in spend and performance
+
+### Management
+• Line managing multiple staff in different departments
+• Performing yearly appraisals and target setting
+• Managing long-term absences
+• Overseeing the development of new training programmes
 
 ## Hobbies and interests
 - **Music**: Played with several jam bands and love getting together in the summer for a campfire sing along. Love recording music and coming up with ideas.
