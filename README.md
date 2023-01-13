@@ -1,6 +1,6 @@
 ## Patrick Reynolds
 
-[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/reynolds-patrick) 
+[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/reynolds-patrick) 
 
 I am a dedicated developer with a passion for building apps and websites. 
 
@@ -110,31 +110,49 @@ https://www.remap.org.uk/ Remap custom-makes equipment to help disabled people l
 
 ### Software
 • JavaScript, React.js, Node.js, Express, Jest, Cypress
+
 • Ruby, Sinatra, RSpec
+
 • HTML, SCSS, CSS
+
 • Tailwind, Bootstrap
+
 • SQL, Postgres Excel
 
 ### Data Analysis
 • Creating department performance reports
+
 • Tracking income and performance
+
 • Dashboard creation
+
 • Audits and data validation
+
 • Strong experience in Excel, including writing DAX measures
+
 • Familiar with SQL and Tableau
+
 
 ### Finance
 • Creating accruals and financial estimates
-• Managing several NHS suppliers, including:
+
+• Managing several NHS suppliers
+
 • Paying invoices
+
 • Tracking contract/SLA expiry dates
+
 • Raising PO numbers
+
 • Reporting on changes in spend and performance
 
 ### Management
 • Line managing multiple staff in different departments
+
 • Performing yearly appraisals and target setting
+
 • Managing long-term absences
+
 • Overseeing the development of new training programmes
 
 ## Hobbies and interests
