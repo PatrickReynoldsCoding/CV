@@ -156,6 +156,7 @@ https://www.remap.org.uk/ Remap custom-makes equipment to help disabled people l
 • Overseeing the development of new training programmes
 
 ## Hobbies and interests
-- **Music**: Played with several jam bands and love getting together in the summer for a campfire sing along. Love recording music and coming up with ideas.
+- **Coding**: My newest hobby. Already have a few projects with friends complete and have quite a few more in the pipeline
+- **Music**: Played with several jam bands and love getting together in the summer for a campfire sing-along. Love recording music and coming up with ideas.
 - **Cooking**: My happy place.
-- **Climbing**: Favorite sport, but hate the shoes!
+- **Climbing**: Favourite sport, but hate the shoes!
