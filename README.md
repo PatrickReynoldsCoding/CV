@@ -13,7 +13,6 @@ Following graduation, I've been developing my React.js and CSS knowledge as well
 
 ## Projects
 
-| Project   | Description | Technologies |
 <!-- |---        |---         |---           |
 | [Pair Up](https://github.com/clarebudds/Pair-Up) | A website to pair program with fellow coders. Final group project at Makers. | MongoDB, Express, React, JavaScript, Nodejs, Cypress, Jest |
 | [MakersBnB](https://github.com/clarebudds/makers_bnb) | A website in the style of AirBnB where users could list and book properties. First group project at Makers. | Ruby, PostgreSQL, RSpec, HTML, CSS |
