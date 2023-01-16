@@ -28,7 +28,7 @@ For a complete list see my [GitHub](https://github.com/PatrickReynoldsCoding)
 ### Makers Academy • Full stack developer bootcamp 
 * Graduate of a 16-week intensive bootcamp:
 
-* Using agile principles to work effectively in a team including daily standups, retros, breaking work into smaller tasks and sprint planning using a Kanban framework
+* Adept at utilizing Agile principles in a team setting, including iterative software development, small feature implementation, and 1-3 week sprints for efficient delivery of value to customers/business. Skilled in daily standups, retrospectives, breaking work into smaller tasks and sprint planning using a Kanban framework for continuous improvement and customer feedback
 
 * Pair programming on a daily basis
 
